@@ -6,13 +6,13 @@
 
 2. ~~**Make commit `6f995a3` real.**~~ ✅ Done 2026-07-22 — Shawn confirmed the commit exists. (Rehearsing `git show 6f995a3` in the on-stage repo is covered under stage prep, item 7.)
 
-3. **Verify social handles on the Further Reading slide.** Deck links to `x.com/ShawnWallace` and `linkedin.com/in/shawnwallace`, but your GitHub and blog use `shawnewallace`. If either handle belongs to a different Shawn Wallace, the audience lands on the wrong profile.
+3. ~~**Verify social handles on the Further Reading slide.**~~ ✅ Done 2026-07-24 — Shawn confirmed `x.com/ShawnWallace` and `linkedin.com/in/shawnwallace` are correct as-is.
 
 4. ~~**Speaker notes for the rest of the deck.**~~ ✅ Done 2026-07-22 — all 17 content slides now have delivery notes with per-section timing cues, transitions, and the §8 compress-if-short fallback. (Sponsor slides intentionally have none.) Worth a read-through during rehearsal to make them your own.
 
 5. **Timing pass against the 52-min budget.** You gained ~3–4 min from cutting the §6 demo. Decide where it goes (deeper §6 mapping, §8 full five-pillar walkthrough, or Q&A buffer) and mark the §8 cut-to-artifact fallback point.
 
-6. **Publish the takeaways.** Thank You slide says "Slides, checklist, and agent files: see session page." Upload the deck, the Monday checklist, and the agent files somewhere real (session page or GitHub) before you say that on stage.
+6. ~~**Publish the takeaways.**~~ ✅ Done 2026-07-24 — repo (deck, punch list, outline, and `demo/architecture-reviewer.agent.md`) pushed to GitHub at `shawnewallace/agents-are-products-talk`.
 
 ## Should do
 
