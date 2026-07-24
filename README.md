@@ -14,7 +14,6 @@ All materials live under [`CincyDeliver Talk 2026/`](./CincyDeliver%20Talk%20202
 | File | Purpose |
 |---|---|
 | `outline.md` | Full section-by-section talk outline, timing budget, source material, deck build log, and locked decisions |
-| `punch-list.md` | Remaining pre-talk TODOs |
 | `agents-are-products.pptx` | The slide deck |
 | `demo/architecture-reviewer.agent.md` | Sample production agent definition, decomposed live on stage as the talk's centerpiece example |
 

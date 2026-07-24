@@ -22,9 +22,6 @@ it in shell commands).
   (dated changelog of what's been built/fixed in the deck), and a **"Decisions locked"** section
   (settled scope/design calls with rationale — read this before proposing a structural change,
   it likely re-litigates something already decided).
-- **`punch-list.md`** — the pre-talk TODO list ("Must do" / "Should do" / "Optional polish"),
-  checked off with `~~strikethrough~~` + a completion date as items land. Keep this in sync with
-  `outline.md`'s "Deck status" when work is completed.
 - **`agents-are-products.pptx`** — the actual slide deck (built with pptxgenjs per the outline's
   Deck status notes). Binary; edit via regeneration script or PowerPoint, not directly.
 - **`demo/architecture-reviewer.agent.md`** — a local copy of a real production agent definition
@@ -39,8 +36,7 @@ it in shell commands).
 ## Working in this repo
 
 - Talk content changes belong in `outline.md`. When you make a substantive change to the deck or
-  outline, add a dated entry under "Deck status" (matching the existing terse, factual style) and
-  update `punch-list.md` if it closes an open item.
+  outline, add a dated entry under "Deck status" (matching the existing terse, factual style).
 - `outline.md`'s "Decisions locked" section exists specifically to prevent re-deciding settled
   questions (e.g., which agent anchors §6, why Modernization was dropped from §7, why §6's live
   model call was cut). Check it before suggesting structural changes.
